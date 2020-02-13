@@ -9,3 +9,6 @@ https://docs.google.com/presentation/d/19u_Cm3vpHy131-UDV2M1dzFBhsWac3V2tC_ArAG7
 
 ## Meeting 3 (Feb 11 2020)
 https://docs.google.com/presentation/d/1Zp6RbjYxjTym3K86jjR8agSi59Let2jkwbcArFJaCZE/edit?usp=sharing
+
+## Meetings 4 (Feb 13 2020)
+https://docs.google.com/presentation/d/1O70gcNTtInXICWm25M_vmyfL6Ul5WyFWpTlQ2NY9j2U/edit?usp=sharing
