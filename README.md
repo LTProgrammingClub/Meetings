@@ -12,3 +12,6 @@ https://docs.google.com/presentation/d/1Zp6RbjYxjTym3K86jjR8agSi59Let2jkwbcArFJa
 
 ## Meeting 4 (Feb 13 2020)
 https://docs.google.com/presentation/d/1O70gcNTtInXICWm25M_vmyfL6Ul5WyFWpTlQ2NY9j2U/edit?usp=sharing
+
+## Meeting 5 (Feb 19 2020)
+https://colab.research.google.com/drive/1lTl2EVLXGgIbTAR33l34Dc5qIX9oPRha#scrollTo=dGCC0Ty6J-g_&forceEdit=true&sandboxMode=true
