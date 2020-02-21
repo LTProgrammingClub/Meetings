@@ -15,3 +15,6 @@ https://docs.google.com/presentation/d/1O70gcNTtInXICWm25M_vmyfL6Ul5WyFWpTlQ2NY9
 
 ## Meeting 5 (Feb 19 2020)
 https://colab.research.google.com/drive/1lTl2EVLXGgIbTAR33l34Dc5qIX9oPRha#scrollTo=dGCC0Ty6J-g_&forceEdit=true&sandboxMode=true
+
+## Meeting 6 (Feb 21 2020)
+https://colab.research.google.com/drive/1rp9_-jxDsMquDf9pEGXdIUcRIyRQTYBv
