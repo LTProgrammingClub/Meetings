@@ -18,3 +18,6 @@ https://colab.research.google.com/drive/1lTl2EVLXGgIbTAR33l34Dc5qIX9oPRha#scroll
 
 ## Meeting 6 (Feb 21 2020)
 https://colab.research.google.com/drive/1rp9_-jxDsMquDf9pEGXdIUcRIyRQTYBv
+
+## Meeting 7 (Feb 26 2020)
+https://docs.google.com/presentation/d/1qdZomotgOHiiDHJtOqOitSO6q2g_VYs3gf17gZit270/edit?usp=sharing
