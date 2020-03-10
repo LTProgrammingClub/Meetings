@@ -21,3 +21,6 @@ https://colab.research.google.com/drive/1rp9_-jxDsMquDf9pEGXdIUcRIyRQTYBv
 
 ## Meeting 7 (Feb 26 2020)
 https://docs.google.com/presentation/d/1qdZomotgOHiiDHJtOqOitSO6q2g_VYs3gf17gZit270/edit?usp=sharing
+
+## Meeting 8 (Mar 10 2020)
+https://docs.google.com/presentation/d/1seuW51rCNROvQupwuxHAtWfwKTGHQH43e6Nbhn9Vnyg/edit?usp=sharing
