@@ -24,3 +24,6 @@ https://docs.google.com/presentation/d/1qdZomotgOHiiDHJtOqOitSO6q2g_VYs3gf17gZit
 
 ## Meeting 8 (Mar 10 2020)
 https://docs.google.com/presentation/d/1seuW51rCNROvQupwuxHAtWfwKTGHQH43e6Nbhn9Vnyg/edit?usp=sharing
+
+## Meeting 9 (Mar 12 2020)
+https://docs.google.com/presentation/d/1tNnkLOpd-mWBrXiYbx2J8kEgXGnbz_U2bhNihKAiIxA/edit?usp=sharing
